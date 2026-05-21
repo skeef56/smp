@@ -1,4 +1,4 @@
 {
   "_base": "https://raw.githubusercontent.com/skeef56/smp/main/sample/",
-  "smp": ["barbarella.wav","bond1.wav","east.wav","emotions.wav","hassles.wav","huey.wav","masakela1.wav","masakela1.wav","masakela2.wav","nathigh1.wav","ruiz1.wav","shirleyb.wav","suonano.wav"]
+  "sample": ["barbarella.wav","bond1.wav","east.wav","emotions.wav","hassles.wav","huey.wav","masakela1.wav","masakela1.wav","masakela2.wav","nathigh1.wav","ruiz1.wav","shirleyb.wav","suonano.wav"]
 }
