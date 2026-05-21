@@ -1,4 +1,4 @@
 {
-"_base": "https://github.com/skeef56/smp/blob/main/breaks/",
-"breaks": ["amen.wav","apache.wav","ferrio.wav","hhunters.wav","masakeladrm01.wav"]
+  "_base": "https://raw.githubusercontent.com/skeef56/smp/main/breaks/",
+  "breaks": ["amen.wav","apache.wav","ferrio.wav","hhunters.wav","masakeladrm01.wav"]
 }
